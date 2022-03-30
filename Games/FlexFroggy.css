@@ -1,0 +1,172 @@
+/* FlexFroggy level 1 */
+#pond {
+  display: flex;
+justify-content: flex-end;
+}
+
+/* FlexFroggy level 2 */
+#pond {
+  display: flex;
+justify-content: center;
+}
+
+/* FlexFroggy level 3 */
+#pond {
+  display: flex;
+justify-content: space-around;
+}
+
+/* FlexFroggy level 4 */
+#pond {
+  display: flex;
+justify-content: space-between;
+}
+
+/* FlexFroggy level 5 */
+#pond {
+  display: flex;
+align-items: flex-end;
+}
+
+/* FlexFroggy level 6 */
+#pond {
+  display: flex;
+align-items: center;
+justify-content: center;
+}
+
+/* FlexFroggy level 7 */
+#pond {
+  display: flex;
+justify-content: space-around;
+align-items: flex-end;
+}
+
+/* FlexFroggy level 8 */
+#pond {
+  display: flex;
+flex-direction: row-reverse;
+}
+
+/* FlexFroggy level 9 */
+#pond {
+  display: flex;
+flex-direction: column;
+}
+
+/* FlexFroggy level 10 */
+#pond {
+  display: flex;
+flex-direction: row-reverse;
+justify-content: flex-end;
+}
+
+/* FlexFroggy level 11 */
+#pond {
+  display: flex;
+justify-content: flex-end;
+flex-direction: column;
+}
+
+/* FlexFroggy level 12 */
+#pond {
+  display: flex;
+flex-direction: column-reverse;
+justify-content: space-between;
+}
+
+/* FlexFroggy level 13 */
+#pond {
+  display: flex;
+flex-direction: row-reverse;
+justify-content: center;
+align-items: flex-end;
+}
+
+/* FlexFroggy level 14 */
+#pond {
+  display: flex;
+}
+
+.yellow {
+order: 2;
+}
+
+/* FlexFroggy level 15 */
+#pond {
+  display: flex;
+}
+
+.red {
+order: -3;
+}
+
+/* FlexFroggy level 16 */
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+align-self: flex-end;
+}
+
+/* FlexFroggy level 17 */
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+order: 2;
+align-self: flex-end;
+}
+
+/* FlexFroggy level 18 */
+#pond {
+  display: flex;
+flex-wrap: wrap;
+}
+
+/* FlexFroggy level 19 */
+#pond {
+  display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+}
+
+/* FlexFroggy level 20 */
+#pond {
+  display: flex;
+flex-flow: column wrap;
+}
+
+/* FlexFroggy level 21 */
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+align-content: flex-start;
+}
+
+/* FlexFroggy level 22 */
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+align-content: flex-end;
+}
+
+/* FlexFroggy level 23 */
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+flex-direction: column-reverse;
+align-content: center;
+}
+
+/* FlexFroggy level 24 */
+#pond {
+  display: flex;
+justify-content: center;
+flex-flow: column-reverse wrap-reverse;
+align-content: space-between;
+}
